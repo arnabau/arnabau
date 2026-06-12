@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Arnaldo Baumanis. Software Developer | Swift & Python | Cybersecurity & AI Integration
+### Arnaldo Baumanis. Software Developer | Swift, Flutter & Python | Cybersecurity & AI Integration
 
 In a digital ecosystem where data privacy is the new global currency, my development process is backed by a deep understanding of network protocols and systems security, ensuring that every line of code is hardened against modern threats.
 
@@ -12,6 +12,7 @@ My competitive edge lies in a deep-rooted foundation in Cybersecurity. This allo
 ## Programming & Frameworks
 ![Swift](https://img.shields.io/badge/Swift-0175C2?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-02569B?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Databases & DevOps
